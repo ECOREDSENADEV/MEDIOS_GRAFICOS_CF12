@@ -59,20 +59,14 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.6',
-            titulo: 'Producción de manual',
+            titulo: 'Producción de cartilla',
             hash: 't_1_6',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.7',
-            titulo: 'Producción de cartilla',
-            hash: 't_1_7',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
             titulo: 'Producción de infografía',
-            hash: 't_1_8',
+            hash: 't_1_7',
           },
         ],
       },
