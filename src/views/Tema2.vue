@@ -102,7 +102,7 @@
         p Desde entonces las computadoras han llevado a los diseñadores a ordenar cada vez más tipos de letras para cubrir sus diseños creativos y programas de diseño de tipografía profesional, es decir, mientras que las fuentes metálicas pasaron décadas en prevalecer y la fotocomposición tardó veinte años en componerse, la revolución digital se afianzó en solo una década. Con la llegada de Internet la tipografía y sus miles de creaciones han pasado a una nueva fase, la Web, de la que continúan sus fructíferas repercusiones.  
 
     
-    .titulo-segundo.color-secundario.mb-5
+    #t_2_2.titulo-segundo.color-secundario.mb-5
       h2 2.2 Clasificación y características tipográficas
     
     
@@ -201,7 +201,7 @@
           figure
             img.imgmano(src='@/assets/curso/tema2/img-mano.svg', alt='imagen mano')
 
-    .titulo-segundo.color-secundario.mb-5
+    #t_2_3.titulo-segundo.color-secundario.mb-5
       h2 2.3 Anatomía del tipo
     
     p Las letras al igual que las formas buscan expresarse por medio del contraste o equilibrio, teniendo en cuenta la línea y el contorno, de las cualidades de sus elementos y la retórica de las formas, o de igual forma, por medio de la linealidad de su estructura y su estilo de estaticidad o dinamismo, por su verticalidad y horizontalidad.
@@ -277,7 +277,7 @@
       figure
         img.contenform.aling-items-center.mt-5(src='@/assets/curso/tema2/img-formas.svg', alt='imagen formas')
     
-    .titulo-segundo.color-secundario.mb-5
+    #t_2_4.titulo-segundo.color-secundario.mb-5
       h2 2.4 Estilos tipográficos
     
     .row.mb-5
@@ -559,7 +559,7 @@
                     span.colortext Ornamentales:
                     | se basan por la duplicidad de elementos que se les adiciona a los tipos decorativos.
 
-    .titulo-segundo.color-secundario.mb-5
+    #t_2_5.titulo-segundo.color-secundario.mb-5
       h2 2.5	Criterios compositivos
 
     .row.mb-5
